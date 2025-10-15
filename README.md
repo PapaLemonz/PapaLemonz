@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/PapaLemonz/PapaLemonz/refs/heads/main/github-header-banner.png)](https://github.com/PapaLemonz)
 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Let's+work+together" alt="Typing SVG" /></a>
 ## 🚀 About Me
 
 <img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
