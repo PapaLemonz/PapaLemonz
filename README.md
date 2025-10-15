@@ -1,12 +1,14 @@
 [![MasterHead](https://raw.githubusercontent.com/PapaLemonz/PapaLemonz/refs/heads/main/github-header-banner.png)](https://github.com/PapaLemonz)
-
-## 🚀 About Me
 <div align="center">
   <h1>👋 Hello, I'm Syahid!</h1>
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+excited+to+build+something" alt="Typing SVG" />
   </p>
 </div>
+
+## 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" />
 
 
 ```yaml
