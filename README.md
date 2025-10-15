@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+excited+to+build+something+awesome+together." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Collaboration+fuels+innovation+%E2%80%94+join+me!" alt="Typing SVG" /></a>
 
 ```yaml
 name: "Muhammad Syahid"
