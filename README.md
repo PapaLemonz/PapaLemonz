@@ -15,7 +15,7 @@
 name: "Muhammad Syahid"
 located_in: "Marang, Terengganu, Malaysia"
 born: "August 16, 2002"
-education: "Bachelor in Biology"
+education: "Bachelor degree in Biology"
 company: "Universiti Malaysia Terengganu"
 
 fields_of_interests:
